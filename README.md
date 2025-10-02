@@ -1,6 +1,6 @@
 # Wearwolves Corp.
 
-[Live Website](https://adityasinnghh.github.io/WearwolvesCorp/)
+[Live Website](https://adityasinnghh.github.io/WearwolvesCorp./)
 
 ## Overview
 
