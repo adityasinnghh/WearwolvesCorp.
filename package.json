@@ -1,0 +1,16 @@
+{
+  "name": "custom-head-project",
+  "version": "1.0.0",
+  "description": "Custom project with editable scripts",
+  "main": "custom-script.js",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'No build step configured'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
