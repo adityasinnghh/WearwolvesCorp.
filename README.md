@@ -46,8 +46,6 @@ To get started, visit the [live website](https://adityasinnghh.github.io/Wearwol
 
 ---
 
-## License
-
 ## 📜 License
 This project is **not open source**.  
 All rights reserved © 2025 Wearwolves Corporation  
