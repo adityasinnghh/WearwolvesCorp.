@@ -50,7 +50,7 @@ To get started, visit the [live website](https://adityasinnghh.github.io/Wearwol
 
 ## 📜 License
 This project is **not open source**.  
-All rights reserved © 2025 Aditya Singh.  
+All rights reserved © 2025 Wearwolves Corporation  
 
 
 
